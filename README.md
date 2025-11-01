@@ -1,8 +1,8 @@
 # 🛠️ Taller 6: Checklist de Cumplimiento Normativo  
 ### Curso: Arquitectura Empresarial – Universidad de La Sabana  
-**Estudiante(s):** [Tu nombre o grupo]  
+**Estudiante:** Valentina Rodriguez Romero
 **Profesor:** César Augusto Vega Fernández  
-**Fecha:** Octubre de 2025  
+**Fecha:** 1 de noviembre de 2025  
 
 ---
 

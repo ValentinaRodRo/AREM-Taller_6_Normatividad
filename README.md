@@ -22,14 +22,14 @@ El taller busca fortalecer la capacidad de **evaluar el cumplimiento normativo**
 
 ```
 taller-06-normatividad/
-├── README.md ← Documento principal (este archivo)
+├── README.md 
 ├── clase/
-│ ├── checklist-gobdata.xlsx ← Checklist base aplicado al caso GobData
-│ └── notas.md ← Análisis y hallazgos de GobData
+│ ├── checklist-gobdata.xlsx 
+│ └── notas.md 
 └── entrega/
-├── checklist-cliente.xlsx ← Checklist aplicado al cliente real (Compulens)
-├── informe.md ← Informe técnico con hallazgos y recomendaciones
-└── referencias.md ← Fuentes normativas y legales consultadas
+├── checklist-cliente.xlsx 
+├── informe.md 
+└── referencias.md 
 ```
 
 ---
@@ -98,16 +98,6 @@ taller-06-normatividad/
 - Resolución 1995 de 1999 – Historias clínicas (MinSalud)  
 - Circular MinTIC 01 de 2021 – Lineamientos de seguridad digital  
 
----
-
-## 🧮 Rúbrica de evaluación (auto-reporte)
-
-| Criterio | Descripción | Nivel alcanzado |
-|-----------|-------------|-----------------|
-| Aplicación del checklist (caso base) | Checklist diligenciado y justificado con base legal. | ✅ Excelente |
-| Evaluación del cliente real | Brechas claras y contextualizadas al proceso Compulens. | ✅ Excelente |
-| Informe y recomendaciones | Acciones viables y alineadas con normativas. | ✅ Excelente |
-| Investigación complementaria | Referencias actualizadas (Ley 1581, ISO 27001, GDPR). | ✅ Excelente |
 
 ---
 
